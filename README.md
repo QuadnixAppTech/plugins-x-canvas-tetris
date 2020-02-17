@@ -6,8 +6,7 @@ http://www.youtube.com/watch?v=GQTZ_TPxJhM
 Play:
 https://dionyziz.com/graphics/canvas-tetris/
 
-Or you can [play it here](https://plugins.quadnix.com/launch?author=quadnix&id=canvas-tetris),
-powered by [Quadnix Plugins](https://plugins.quadnix.com).
+or, [click here](http://tetrisgame-quadnix.engine.quadnix.com) to play the Tetris Game in Quadnix Plugins.
 
 License
 =======
